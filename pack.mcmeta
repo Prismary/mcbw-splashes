@@ -1,6 +1,13 @@
 {
   "pack": {
     "pack_format": 1,
-    "description": "   §f§lSchwitz§4§lpack              §bRELOADED"
+    "description": "   §f§lSchwitz§4§lpack                     §bRELOADED"
+  },
+   "language": {
+      "en_bw": {
+         "name": "Bedwars",
+         "region": "HiveMC",
+         "bidirectional": false
+      }
   }
 }
